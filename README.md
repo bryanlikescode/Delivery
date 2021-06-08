@@ -1,2 +1,2 @@
-# SE-Spr2021-Team-Da-Baby
-Software Engineering repo for Team Da Baby.
+# Team DaBaby
+Documentation designed for an academic project.
